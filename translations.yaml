@@ -1,0 +1,11 @@
+# IceyStimmy Translations
+# By Johnanater
+
+Rewards:
+  PlayTime: "You got paid ${Amount} for playing on the server for {Time} minutes!"
+  PlayerKill: "You got paid ${Amount} for killing a player!"
+  AnimalKill: "You got paid ${Amount} for killing an animal!"
+  ZombieKill: "You got paid ${Amount} for killing a zombie!"
+  
+Punishments:
+  Death: "You have lost ${Amount} because you died!"

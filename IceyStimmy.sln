@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{988DB79C-3296-4EFD-8A8C-01073DEF7470}") = "IceyStimmy", "IceyStimmy.csproj", "{A5264B06-92F6-4299-B891-AD6161E4879C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5264B06-92F6-4299-B891-AD6161E4879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5264B06-92F6-4299-B891-AD6161E4879C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5264B06-92F6-4299-B891-AD6161E4879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5264B06-92F6-4299-B891-AD6161E4879C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

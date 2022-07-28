@@ -1,0 +1,26 @@
+# IceyStimmy Configuration
+# By Johnanater
+
+# Money, Experience
+RewardSystem: Money
+
+TimeMinutes: 10
+
+PlayTime: 20
+PlayerKill: 5
+Animalkill: 5
+ZombieKill: 5
+
+PunishOnDeath: true
+DeathAmount: 8
+
+ChatConfig:
+  # Icon for the chat messages sent
+  ChatMessageIconUrl: "https://i.imgur.com/g4UBUzZ.png"
+  ChatUseRichText: false
+
+  # These chat colors are from Unity
+  # You can find out how to specify colors here:
+  # https://docs.unity3d.com/ScriptReference/ColorUtility.TryParseHtmlString.html
+  ChatMessageColor: "#00FF00"
+  ErrorChatMessageColor: "#FF0000"
