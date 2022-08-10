@@ -44,6 +44,9 @@ namespace IceyStimmy.Helpers
             var config = IceyStimmy.Config;
             var rewardSystem = config.RewardSystem;
 
+            if (amount == 0)
+                return;
+            
             switch (rewardSystem)
             {
                 case RewardSystem.Money:
